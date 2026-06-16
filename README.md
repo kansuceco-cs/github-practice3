@@ -5,3 +5,4 @@ This repository is for learning about GitHub.
 - Creating repositories
 - Creating branches
 - Committing changes
+- one small additional change
